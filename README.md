@@ -1,17 +1,13 @@
-📊 Sales Performance Summary Report (FY 2014–2018)
-1. Key Performance Indicators (KPIs)
-✔ Total Sales (2014–2018)
+Summary
 
-Overall sales show a consistent upward trend across all five years, driven mainly by strong performance in Technology and Furniture categories.
+The dashboard shows strong business growth from FY 2014–2018, driven primarily by:
 
-✔ Total Profit
+High-performing sub-categories like Phones and Binders
 
-Profitability remains positive overall, with Technology contributing the highest profit margins. Some sub-categories in Furniture (especially Tables) show lower or negative profitability.
+Strong consumer segment contributions
 
-✔ Total Quantity Sold
+Consistent performance from West and East regions
 
-Consumer segment contributes the largest share of total units sold, followed by Corporate and Home Office.
+Positive profitability trends in Technology items
 
-✔ Average Sales per Order
-
-Average order value remains stable across the years, with a slight growth trend in the most recent years.
+Strategic focus should remain on Technology and high-volume Office Supplies, while Furniture sub-categories like Tables may require pricing or discount optimization.
