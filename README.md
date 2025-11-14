@@ -34,3 +34,5 @@ Consistent performance from West and East regions
 Positive profitability trends in Technology items
 
 Strategic focus should remain on Technology and high-volume Office Supplies, while Furniture sub-categories like Tables may require pricing or discount optimization.
+<img width="1918" height="954" alt="image_dashboard" src="https://github.com/user-attachments/assets/c24a425c-0761-43f8-b5df-786062633f18" />
+
